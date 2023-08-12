@@ -34,7 +34,7 @@
 
 
 
-📫 Feel free to reach out to me at [your.email@example.com](mukisaivan340@gmail.com).
+📫 Feel free to reach out to me at [Gmail](mukisaivan340@gmail.com).
 
 Let's connect and collaborate on exciting projects!
 
