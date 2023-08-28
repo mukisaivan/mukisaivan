@@ -9,7 +9,6 @@
 - Mobile App Development using Flutter 📱📲
 - Embedded Systems Development  🛠⚙
 
-🎮 When I'm not coding, you'll probably find me immersed in the virtual world of FIFA 23, enjoying sports gaming.
 
 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/mukisaivan) and check out some of my projects below!
 
